@@ -26,5 +26,7 @@ The cp command copies files or directories while keeping the original intact, wh
 
 
 <img width="896" height="228" alt="image" src="https://github.com/user-attachments/assets/4f85085d-1aae-4b27-bfa4-2e3fd4799d6b" />
+
+
 The sudo apt update command connects to the configured software repositories and downloads the latest package information, including available software versions and security updates. This allows Ubuntu to check which packages have newer versions available. However, it does not install the updates, as the sudo apt upgrade command is used for that.
 
