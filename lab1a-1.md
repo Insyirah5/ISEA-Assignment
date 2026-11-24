@@ -17,7 +17,7 @@ Answer: A VM keeps the host computer safe if code crashes or if untrusted softwa
 
 •	What challenges did you face during installation or network setup?
 
-Answer: I was too quick to double-check whether I selected the right settings for the VM installation, which made the duration much longer than needed.
+Answer: I did not double-check that I had selected the correct settings for the VM installation, which made the installation take much longer than necessary.
 
 
 •	What are the differences between NAT and Bridged networking in VirtualBox?
