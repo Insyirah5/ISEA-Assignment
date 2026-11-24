@@ -7,3 +7,5 @@ This is a blog of my learning journey throughout the labs.
 **[Lab 1a-1: Virtualisation & Linux Setup](lab1a-1.md)**
 
 **[Lab 1a-2: Ubuntu Desktop Familiarisation](lab1a-2.md)**
+
+**[Lab 2a-2: Amazon EC2 Web Services Lab](lab2a-2.md)**
