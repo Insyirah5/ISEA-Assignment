@@ -1,4 +1,4 @@
-Lab - Ubuntu Desktop Familiarisation Lab
+Lab 2 - Ubuntu Desktop Familiarisation Lab
 
 From this lab, I became much more familiar with using Ubuntu as I got to practice more on the command line.
 
